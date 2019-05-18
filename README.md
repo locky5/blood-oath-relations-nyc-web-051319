@@ -123,12 +123,12 @@ Now we want to build out some useful features so `Cult`s and `Follower`s and get
   * prints out all of the slogans for this follower's cults
 * `Follower.most_active`
   * returns the `Follower` instance who has joined the most cults
-* `Follower.top_ten`
+* `Follower.top_ten` ???
   * returns an `Array` of followers; they are the ten most active followers
 
 **`BloodOath`**
 
-* `BloodOath.first_oath`
+* `BloodOath.first_oath` ???
   * returns the `Follower` instance for the follower that made the very first blood oath
 
 ---
